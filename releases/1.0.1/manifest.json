@@ -1,0 +1,91 @@
+{
+  "name": "hidden-heroes-all-7",
+  "note": "HiddenHeroes complete seven-character release: PAK + UE4SS portable QualificationMods path + DSAbuseCompat + live-accepted CharacterShowSetInfoGuard v5 with bounded audio recovery",
+  "created": "2026-09-12",
+  "summary": {
+    "paks": {
+      "DS_HIDDEN_HEROES_P.pak": "9917B6052A1F2EF9DD999FEC0B153C9474BB05F22C578938ACC10541BDDBDD7F"
+    },
+    "dwmapi": true,
+    "ue4ss": true,
+    "enabled_mods": [
+      "CharacterShowSetInfoGuard",
+      "DSAbuseCompat"
+    ],
+    "characters": [
+      "Lute",
+      "Viola",
+      "Ysera",
+      "Ryza",
+      "Jerome",
+      "Logan",
+      "Veronica"
+    ]
+  },
+  "files": [
+    {
+      "path": "DS/Binaries/Win64/dwmapi.dll",
+      "bytes": 71680,
+      "sha256": "BCF68C7571E993879FBF24E2671F742A41635E7AF467F3C6A4F5EC9B4CAB502F"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/LICENSE",
+      "bytes": 1085,
+      "sha256": "99E1D8F8B7CB68E8B2313380AE3B0C8115E39DFBC443FCF21FD67AB74CE1D57E"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/CharacterShowSetInfoGuard/Native/DSCharacterShowSetInfoGuard.dll",
+      "bytes": 169984,
+      "sha256": "36AD9B0C170D7D5B413C0ACDACFBA0937091BD04D0BC6E21F942D8E84842E9B3"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/CharacterShowSetInfoGuard/README.md",
+      "bytes": 5447,
+      "sha256": "9CEBC785FED95825335A1C02AE2AD97B2A293C05F54069B594FBDA85EEF46C25"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/CharacterShowSetInfoGuard/Scripts/main.lua",
+      "bytes": 3179,
+      "sha256": "B2BF9FE6D8DD61EB5C695785FBB075FF80A0630B52125E1F159E5C3083DE26C4"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/DSAbuseCompat/Native/DSAbuseCompat.dll",
+      "bytes": 152576,
+      "sha256": "D895B113F52D820AAB58975491FB5AC956DD99E5CB1243168B4CB362C940C945"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/DSAbuseCompat/README.md",
+      "bytes": 1989,
+      "sha256": "5A2F91310D5AF0952BD025F6A89F3C97E7153886BFC3F965244AC5906617DE48"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/DSAbuseCompat/Scripts/main.lua",
+      "bytes": 949,
+      "sha256": "C5F6FD839E4F97CD4DF8969B26F64387FCC9731D7791197DC3D1BF77ECE700DE"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/QualificationMods/mods.txt",
+      "bytes": 278,
+      "sha256": "F738F040E1D73D0716A61977D3D22872B159246B1EDB18F7BD6A8D2BF0E5FC86"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/UE4SS-settings.ini",
+      "bytes": 7899,
+      "sha256": "93AC7DB29AD4E73D5FAE5441E060BBA9EF83694168F45943E05BBD883E2ECF87"
+    },
+    {
+      "path": "DS/Binaries/Win64/ue4ss/UE4SS.dll",
+      "bytes": 16470528,
+      "sha256": "1D86252DAE98CFE6FA11CA713A4F35CEAEF4AB7F3FB0BBCCC742097D41F37E9A"
+    },
+    {
+      "path": "DS/Content/Paks/mods/DS_HIDDEN_HEROES_P.pak",
+      "bytes": 128678551,
+      "sha256": "9917B6052A1F2EF9DD999FEC0B153C9474BB05F22C578938ACC10541BDDBDD7F"
+    }
+  ],
+  "version": "1.0.1",
+  "source_release": "1.0.0",
+  "supported_steam_build": "25076183",
+  "executable_sha256": "B3E0B8CAB6752ACB981E104CA95A0105F76FCDD42EE622A8063AB8DE44FCA94C"
+}

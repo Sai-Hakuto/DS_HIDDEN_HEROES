@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+installer/build/
+installer/dist/
+installer/testing_tools/fixtures/
+installer/testing_tools/work/
+*.exe
+*.dll
+*.pak
+*.zip

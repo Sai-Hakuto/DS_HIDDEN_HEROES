@@ -1,0 +1,58 @@
+{
+  "version": "1.0.1",
+  "steam_build": "25076183",
+  "pak_entries": 3665,
+  "changed_assets": [
+    "Design/DsCharacter/Player/Ysera/ActionGraphData/DsPC_Ysera_V2.uexp",
+    "Design/DsCharacter/Player/Veronica/ActionGraphData/DsPC_Veronica_V2.uexp",
+    "Design/DsCharacter/Player/Ryza/ActionGraphData/DsPC_Ryza_V2.uexp",
+    "Design/DsCharacter/Player/Logan/ActionGraphData/DsPC_Logan_V2.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Awaken_Lute/DsPC_Awaken_Lute_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Jerome/DsPC_Jerome_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Logan/DsPC_Logan_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Ryza/DsPC_Ryza_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Veronica/DsPC_Veronica_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Viola/DsPC_Viola_Lobby.uexp",
+    "Design/DsCharacter/Player/LobbyCharacter/Ysera/DsPC_Ysera_Lobby.uexp",
+    "Design/DsCharacter/Player/Jerome/ActionGraphData/DsPC_Jerome_V2.uexp",
+    "Design/ActionObject/Projectile/PC/Ryza/ActionObj_Ryza_Active.uexp"
+  ],
+  "changed_tables": [
+    "__GeneratedGameData__/Server/XML/GameData/GameBuffData.xml",
+    "__GeneratedGameData__/Server/XML/GameData/PCCharacterData.xml",
+    "__GeneratedGameData__/Server/XML/GameData/PCComboData.xml",
+    "__GeneratedGameData__/Server/XML/GameData/PCComboLevelData.xml",
+    "Design/GameData/GameBuffData.table",
+    "Design/GameData/PCCharacterData.table",
+    "Design/GameData/PCComboData.table",
+    "Design/GameData/PCComboLevelData.table",
+    "Design/GameData/StringData_de.table",
+    "Design/GameData/StringData_en.table",
+    "Design/GameData/StringData_es_ES.table",
+    "Design/GameData/StringData_fr.table",
+    "Design/GameData/StringData_ja.table",
+    "Design/GameData/StringData_ko_KR.table",
+    "Design/GameData/StringData_pt_BR.table",
+    "Design/GameData/StringData_ru.table",
+    "Design/GameData/StringData_th.table",
+    "Design/GameData/StringData_zh_CN.table",
+    "Design/GameData/StringData_zh_TW.table"
+  ],
+  "resolved_fields": 188,
+  "manifest_files": 12,
+  "pak_sha256": "9917B6052A1F2EF9DD999FEC0B153C9474BB05F22C578938ACC10541BDDBDD7F",
+  "assets": {
+    "DragonSword_Update_Guard.zip": {
+      "sha256": "6F24B3B50395CC828864DABA3827AFA5D9D409FF23F17F870005A22C1B170EE0",
+      "bytes": 8455336
+    },
+    "DS_HIDDEN_HEROES_ALL_7_20260912.zip": {
+      "sha256": "1C62B1EBFCB311E377A654462B92E32E52AEFE21E05149271EC0614946D6E78F",
+      "bytes": 67061522
+    },
+    "Hidden_Heroes_Installer.exe": {
+      "sha256": "7DAD12EC5DED296CD8DBF204D8C6157251FB9DA1DA6AE6CF2E859E8AF30D2F8E",
+      "bytes": 12860252
+    }
+  }
+}
