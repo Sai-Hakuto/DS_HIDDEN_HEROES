@@ -1,0 +1,58 @@
+{
+  "product": "hh",
+  "tables": {
+    "Design/GameData/PCComboData.table": {
+      "changed": true
+    },
+    "Design/GameData/PCComboLevelData.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_de.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_en.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_es_ES.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_fr.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_ja.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_ko_KR.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_pt_BR.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_ru.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_th.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_zh_CN.table": {
+      "changed": true
+    },
+    "Design/GameData/StringData_zh_TW.table": {
+      "changed": true
+    },
+    "__GeneratedGameData__/Server/XML/GameData/PCComboData.xml": {
+      "changed": true
+    },
+    "__GeneratedGameData__/Server/XML/GameData/PCComboLevelData.xml": {
+      "changed": true
+    }
+  },
+  "conflicts": [],
+  "resolutions": [
+    {
+      "path": "Design/GameData/StringData_pt_BR.table/Data/830060601/SourceString",
+      "choice": "new_vendor",
+      "reason": "Vendor changes explosive-arrow trigger from fifth to third attack; mod only has an older punctuation/article edit"
+    }
+  ]
+}

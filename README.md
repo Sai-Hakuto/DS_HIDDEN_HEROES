@@ -3,8 +3,8 @@
 Standalone seven-character mod for **DragonSword: Awakening**: Awakened Lute,
 Viola, Ysera, Ryza, Jerome, Logan and Veronica.
 
-**Current release: 1.0.1**, updated for **Steam build 25076183**
-(September 4, 2026 game update).
+**Current release: 1.0.2**, for game **1.0.12 / Steam build 25202218**
+(September 10, 2026 game update).
 
 ## Download and install
 
@@ -25,7 +25,18 @@ Use the generated **Uninstall Hidden Heroes** shortcut to remove the mod.
 Removed files are preserved under `deleted_hidden_heroes`, and pre-existing
 files are restored. Saved games are outside uninstall scope.
 
-## Version 1.0.1
+## Version 1.0.2
+
+Rebases 15 owned vendor tables and one UI settings export byte onto game 1.0.12.
+Restored character balance and the two existing native compatibility modules
+are retained. Standalone world loading with Veronica and Ysera, Guard/Abuse
+activation, and packaged installation/uninstallation were checked.
+
+See [`releases/1.0.2/VALIDATION.md`](releases/1.0.2/VALIDATION.md) for evidence
+and the scope of gameplay testing. The installer remains compatible and is
+included in the release.
+
+## Version 1.0.1 (previous release)
 
 - Updates 13 character/component exports for the September game layout.
 - Refreshes the two native compatibility modules.
@@ -48,4 +59,4 @@ python -m unittest discover -s testing_tools -p test_installer.py
 python -m PyInstaller --noconfirm --clean HiddenHeroesInstaller.spec
 ```
 
-Release file hashes and validation details are under [`releases/1.0.1/`](releases/1.0.1/).
+Current file hashes and validation details are under [`releases/1.0.2/`](releases/1.0.2/).
